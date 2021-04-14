@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(2, 2, 2);
+}
+
+.My_button {
+    background-color: blue;
+    color: rgb(253, 253, 253);
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 10px double violet;
+}
+
+.clock_colour {
+    /*color: white;*/
+}
+
+#clock {
+    color: white;
+    font-size: 100px;
+    width: 700px;
+    text-align: center;
+    border-radius: 10px;
+    border: 15px double yellowgreen;
+    background-color: tomato;
+    font-family: 'Pacifico', cursive;
+}
